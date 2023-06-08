@@ -24,3 +24,7 @@ An alternative to using a Wikidata identifier for map positioning is to use regu
 
 Similar to the image viewer, map zooming is controlled using the buttons located in the top-left corner of the map viewer.  Panning is performed with the keyboard arrow keys or by mouse click-and-drag.
 
+## Embedded entities
+
+==Pieter Bruegel the Elder=={Q43270} was a singular artist, envisioning fantastic otherworlds and intimately depicting the quotidian rhythms and textures of his own. 
+
