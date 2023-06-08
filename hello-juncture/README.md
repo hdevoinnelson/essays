@@ -30,7 +30,12 @@ Similar to the image viewer, map zooming is controlled using the buttons located
 
 ==Pieter Bruegel the Elder=={Q43270} was a singular artist, envisioning fantastic otherworlds and intimately depicting the quotidian rhythms and textures of his own. 
 
+.ve-map 48.2038051,16.3592125 17 width=75%
+    - Q95569
+
 This is not Bruegel, but it is Manet. We love him too!
 
 .ve-media https://media.getty.edu/iiif/manifest/9193e696-47f0-4e2b-b987-cf535fc9d292
+
+
 
