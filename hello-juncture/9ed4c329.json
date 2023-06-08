@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This snail metaphorizes Manet's own condition during the summer of 1880; he was confined to his garden by a paralyzed leg that limited his mobility. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://media.getty.edu/iiif/image/24ae1c9a-8ec5-4088-b864-1673a8d34a6a",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1864.8742065429688,1877.533447265625,1616.6802368164062,493.2568359375"
+      },
+      "id": "9ed4c329"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "22b08e3d"
+  }
+]
