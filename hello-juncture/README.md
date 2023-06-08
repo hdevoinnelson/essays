@@ -1,3 +1,5 @@
+.ve-header "Juncture Tutorial and Practice" wc:https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project_edit.jpg
+
 # Hello, Juncture
 
 This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
