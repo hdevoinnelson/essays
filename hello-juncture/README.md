@@ -1,4 +1,4 @@
-.ve-header "Juncture Tutorial and Practice" wc:https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project_edit.jpg
+.ve-header "Juncture Tutorial and Practice" wc:Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project_edit.jpg
 
 # Hello, Juncture
 
@@ -29,4 +29,8 @@ Similar to the image viewer, map zooming is controlled using the buttons located
 ## Embedded entities
 
 ==Pieter Bruegel the Elder=={Q43270} was a singular artist, envisioning fantastic otherworlds and intimately depicting the quotidian rhythms and textures of his own. 
+
+This is not Bruegel, but it is Manet. We love him too!
+
+.ve-media https://media.getty.edu/iiif/manifest/9193e696-47f0-4e2b-b987-cf535fc9d292
 
