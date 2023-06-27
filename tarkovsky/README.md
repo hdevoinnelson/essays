@@ -34,3 +34,4 @@ Wynter is useful here in considering—or rather, rejecting—a divide between t
 
 Tarkovsky would suggest that it is a suspended kind of care and faith, an investment in the speculative and the potential for the realization of inchoate longing and desire. As he wrote in ==*Sculpting in Time*=={Q1279432}, “In the end everything can be reduced to the one simple element which is all a person can count upon in his existence: the capacity to love. That element can grow within the soul to become the supreme factor which determines the meaning of a person’s life. My function is to make whoever sees my films aware of his need to love and to give his love, and aware that beauty is summoning him.”
 
+.ve-media wc:Iru_power_plant.jpg static
