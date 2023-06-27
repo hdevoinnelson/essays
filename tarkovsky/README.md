@@ -2,7 +2,7 @@
 
 The bar is nearly empty, the screen a sickly yellow. A man enters, waiting. The score, a haunted and visceral scream of electronic orchestration, accompanies the credits as they roll across the screen. 
 
-.ve-media https://www.youtube.com/watch?v=Q3hBLv-HLEc&t=5165s autoplay sticky start=131 end=422
+.ve-media https://youtu.be/Q3hBLv-HLEc autoplay start=131 end=422
 
 The bedroom is seen from above, a glass of water skittering across a table as a train rumbles by. This is our introduction to the Stalker (==Alexander Kaidanovsky=={Q620653}), seen here in his home with his wife (==Alisa Freindlich=={Q271630}) and his young daughter, Monkey. As he gets up and prepares to leave, his wife begs him not to return to that place, not to risk yet another prison sentence, not to risk his life in this foolish endeavor. The Stalker, shrugging off her entreaties, leaves to meet his clients. 
 
