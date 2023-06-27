@@ -1,4 +1,4 @@
-.ve-media wc:J%C3%A4gala_HEP,Sept2009.jpg static
+.ve-media wc:J%C3%A4gala_HEP,_Sept_2009.jpg static
 
 # Chornobyl, *Stalker,* and Being Human as Praxis
 
