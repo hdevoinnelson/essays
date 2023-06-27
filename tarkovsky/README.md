@@ -1,3 +1,5 @@
+.ve-media wc:
+
 # Chornobyl, *Stalker,* and Being Human as Praxis
 
 The bar is nearly empty, the screen a sickly yellow. A man enters, waiting. The score, a haunted and visceral scream of electronic orchestration, accompanies the credits as they roll across the screen. 
